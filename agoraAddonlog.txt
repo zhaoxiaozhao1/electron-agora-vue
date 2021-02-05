@@ -1,0 +1,32 @@
+Create video stream channel for type : 0, uid :0
+
+duration : 2, tx :73326, rx :173661, txbr :0, rxbr :0, txAudioBr :0, rxAudioBr :0, users :1
+
+duration : 4, tx :175514, rx :176860, txbr :408, rxbr :12, txAudioBr :71, rxAudioBr :0, users :1
+
+duration : 6, tx :296134, rx :192164, txbr :482, rxbr :61, txAudioBr :75, rxAudioBr :0, users :1
+
+duration : 8, tx :421349, rx :200675, txbr :500, rxbr :34, txAudioBr :75, rxAudioBr :0, users :1
+
+duration : 10, tx :559964, rx :210728, txbr :554, rxbr :40, txAudioBr :74, rxAudioBr :0, users :1
+
+duration : 12, tx :691909, rx :214781, txbr :527, rxbr :16, txAudioBr :77, rxAudioBr :0, users :1
+
+duration : 14, tx :822698, rx :218574, txbr :523, rxbr :15, txAudioBr :75, rxAudioBr :0, users :1
+
+duration : 16, tx :954501, rx :222245, txbr :527, rxbr :14, txAudioBr :73, rxAudioBr :0, users :1
+
+duration : 18, tx :1085389, rx :225925, txbr :523, rxbr :14, txAudioBr :77, rxAudioBr :0, users :1
+
+duration : 20, tx :1216006, rx :230798, txbr :522, rxbr :19, txAudioBr :77, rxAudioBr :0, users :1
+
+duration : 22, tx :1348949, rx :235590, txbr :531, rxbr :19, txAudioBr :78, rxAudioBr :0, users :1
+
+duration : 24, tx :1479313, rx :239152, txbr :521, rxbr :14, txAudioBr :76, rxAudioBr :0, users :1
+
+duration : 26, tx :1608814, rx :242560, txbr :517, rxbr :13, txAudioBr :74, rxAudioBr :0, users :1
+
+duration : 28, tx :1740736, rx :246108, txbr :527, rxbr :14, txAudioBr :75, rxAudioBr :0, users :1
+
+duration : 30, tx :1875104, rx :249808, txbr :537, rxbr :14, txAudioBr :86, rxAudioBr :0, users :1
+
